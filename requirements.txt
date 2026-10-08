@@ -43,6 +43,7 @@ streamlit==1.65.0
 toml==0.10.2
 typing-inspection==0.4.4
 typing_extensions==4.16.0
+bcrypt
 tzdata==2026.5
 urllib3==2.7.0
 uvicorn==0.54.0
